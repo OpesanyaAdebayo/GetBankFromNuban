@@ -14,7 +14,7 @@ The proposal contains the algorithm for account number generation, and that is w
 
 2. Run the application: You can the following at the bottom of `src/getBanks.ts`
     
-    `console.log(getPossibleBanks('<Any Account Number>'));`
+    `console.log(getPossibleBanks('<Any Valid Bank Account Number>'));`
 
     then install dependencies:
 
