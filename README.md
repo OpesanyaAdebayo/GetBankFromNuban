@@ -13,6 +13,7 @@ If you want to see it in action without downloading, please visit [repl.it](http
 
     `git clone https://github.com/OpesanyaAdebayo/GetBankFromNuban.git`
 
+    `cd GetBankFromNuban`
 
 2. Run the application: You can add the following at the bottom of `src/getBanks.ts`
     
