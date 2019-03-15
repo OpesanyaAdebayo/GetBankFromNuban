@@ -1,5 +1,5 @@
-import { getPossibleBanks } from './getBanks';
-import { getCheckDigit } from "./helpers/getCheckDigit";
+import { getPossibleBanks } from './src/getBanks';
+import { getCheckDigit } from "./src/helpers/getCheckDigit";
 
 test('should return at least one correct bank code and account number.', () => {
     const possibleBanks = getPossibleBanks('3046778959').find(bank => bank.bankName === 'First Bank of Nigeria' )

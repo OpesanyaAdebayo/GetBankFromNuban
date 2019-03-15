@@ -9,7 +9,7 @@ module.exports = {
       'ts',
     ],
     testMatch: [
-      '**/src/**/*.test.(ts|js)',
+      '**/*.test.(ts|js)',
     ],
     testEnvironment: 'node',
     preset: 'ts-jest',
